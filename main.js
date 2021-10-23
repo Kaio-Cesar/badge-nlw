@@ -1,7 +1,7 @@
 //Alter the information below for customizantion.
 const linksSocialMedia = {
   github: 'Kaio-Cesar',
-  youtube: 'UCOpfLiUSU3z0KbZZblaf8yQ',
+  youtube: 'channel/UCOpfLiUSU3z0KbZZblaf8yQ',
   facebook: 'kaio.cesar.9256028',
   instagram: 'kaio.cesar0',
   twitter: 'escark_'
